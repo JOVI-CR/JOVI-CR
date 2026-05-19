@@ -1,6 +1,6 @@
 ### Hi! I'm João Vitor 👋
 
-- 👨‍💻 I'm a developer currently working on volunteer projects to gain experience.
+- 👨‍💻 I'm building real-world solutions.
 - 🎯 My main focus is **Java** and its ecosystem, but I'm also very interested in **C#** and the **JavaScript/TypeScript** ecosystem.
 - 🎓 Studying Information Technology at PUC Minas.
 
