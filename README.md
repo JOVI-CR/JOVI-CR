@@ -1,17 +1,17 @@
 ### Hi! I'm João Vitor 👋
 
-- 👨‍💻 I'm building real-world solutions.
-- 🎯 My main focus is **Java** and its ecosystem, but I'm also very interested in **C#** and the **JavaScript/TypeScript** ecosystem.
-- 🎓 Studying Information Technology at PUC Minas.
+- 👨‍💻 I build backend solutions focused on APIs, integrations, and robust systems.
+- 🎯 Main stack: **Java / Spring Boot** — also working with **C# / .NET** and **TypeScript**.
+- 🎓 B.Sc. in Systems Analysis and Development — PUC Minas.
 
 <details>
 <summary>🇧🇷 Versão em Português</summary>
 
 ### Oi! Eu sou o João Vitor 👋
 
-- 👨‍💻 Sou desenvolvedor e atualmente trabalho em projetos como voluntário para ganhar experiência.
-- 🎯 Meu foco principal é **Java** e seu ecossistema, mas também tenho grande interesse por **C#** e pelo ecossistema **JavaScript/TypeScript**.
-- 🎓 Estudante de Tecnologia da Informação na PUC Minas.
+- 👨‍💻 Desenvolvo soluções reais com foco em backend — APIs, integrações e sistemas robustos.
+- 🎯 Meu foco principal é **Java** e seu ecossistema (Spring Boot), com forte interesse em **C# / .NET** e **TypeScript**.
+- 🎓  Cursando Análise e Desenvolvimento de Sistemas na PUC Minas.
 
 </details>
 
